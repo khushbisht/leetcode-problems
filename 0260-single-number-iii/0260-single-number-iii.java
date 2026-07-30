@@ -5,9 +5,9 @@ class Solution {
         for (int num : nums) {
             xor ^= num;
         }
-        int diffBit = xor & (-xor);// Get the rightmost set bit
+        int diff = xor & -xor;
         for (int num : nums) {
-            if ((num & diffBit) == 0){
+            if ((num & diff) == 0) {
                 result[0] ^= num;
             } else {
                 result[1] ^= num;
@@ -16,3 +16,6 @@ class Solution {
         return result;
     }
 }
+        
+
+    
