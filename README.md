@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushbisht/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushbisht/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/khushbisht/leetcode-problems/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/khushbisht/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0137-single-number-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/khushbisht/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
