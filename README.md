@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khushbisht/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/khushbisht/leetcode-problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
