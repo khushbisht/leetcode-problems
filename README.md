@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushbisht/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/khushbisht/leetcode-problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khushbisht/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3917-count-indices-with-opposite-parity](https://github.com/khushbisht/leetcode-problems/tree/master/3917-count-indices-with-opposite-parity) |
 ## Simulation
 |  |
 | ------- |
