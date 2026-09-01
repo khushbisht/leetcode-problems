@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0137-single-number-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushbisht/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khushbisht/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushbisht/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushbisht/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/khushbisht/leetcode-problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khushbisht/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Database
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khushbisht/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
