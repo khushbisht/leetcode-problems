@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/khushbisht/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0137-single-number-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0137-single-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushbisht/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khushbisht/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/khushbisht/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/khushbisht/leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
