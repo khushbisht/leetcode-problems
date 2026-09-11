@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/khushbisht/leetcode-problems/tree/master/0525-contiguous-array) |
 | [1310-xor-queries-of-a-subarray](https://github.com/khushbisht/leetcode-problems/tree/master/1310-xor-queries-of-a-subarray) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/khushbisht/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushbisht/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khushbisht/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushbisht/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/khushbisht/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3467-transform-array-by-parity](https://github.com/khushbisht/leetcode-problems/tree/master/3467-transform-array-by-parity) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/khushbisht/leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Brainteaser
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/khushbisht/leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/khushbisht/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
