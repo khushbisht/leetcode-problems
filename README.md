@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/khushbisht/leetcode-problems/tree/master/3467-transform-array-by-parity) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khushbisht/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/khushbisht/leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/khushbisht/leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/khushbisht/leetcode-problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khushbisht/leetcode-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushbisht/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushbisht/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/khushbisht/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/khushbisht/leetcode-problems/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/khushbisht/leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0137-single-number-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/khushbisht/leetcode-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khushbisht/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/khushbisht/leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
