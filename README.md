@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0137-single-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/khushbisht/leetcode-problems/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/khushbisht/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1310-xor-queries-of-a-subarray](https://github.com/khushbisht/leetcode-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/khushbisht/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1720-decode-xored-array](https://github.com/khushbisht/leetcode-problems/tree/master/1720-decode-xored-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/khushbisht/leetcode-problems/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/khushbisht/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1310-xor-queries-of-a-subarray](https://github.com/khushbisht/leetcode-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/khushbisht/leetcode-problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/khushbisht/leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
