@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0137-single-number-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/khushbisht/leetcode-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1720-decode-xored-array](https://github.com/khushbisht/leetcode-problems/tree/master/1720-decode-xored-array) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/khushbisht/leetcode-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khushbisht/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/khushbisht/leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
