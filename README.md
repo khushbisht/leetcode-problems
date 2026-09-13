@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushbisht/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/khushbisht/leetcode-problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/khushbisht/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/khushbisht/leetcode-problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3467-transform-array-by-parity](https://github.com/khushbisht/leetcode-problems/tree/master/3467-transform-array-by-parity) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khushbisht/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/khushbisht/leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushbisht/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/khushbisht/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/khushbisht/leetcode-problems/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/khushbisht/leetcode-problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/khushbisht/leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/khushbisht/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/khushbisht/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1310-xor-queries-of-a-subarray](https://github.com/khushbisht/leetcode-problems/tree/master/1310-xor-queries-of-a-subarray) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/khushbisht/leetcode-problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/khushbisht/leetcode-problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/khushbisht/leetcode-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Breadth-First Search
