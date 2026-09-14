@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushbisht/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khushbisht/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushbisht/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/khushbisht/leetcode-problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/khushbisht/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushbisht/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/khushbisht/leetcode-problems/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/khushbisht/leetcode-problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushbisht/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/khushbisht/leetcode-problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3467-transform-array-by-parity](https://github.com/khushbisht/leetcode-problems/tree/master/3467-transform-array-by-parity) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/khushbisht/leetcode-problems/tree/master/0525-contiguous-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/khushbisht/leetcode-problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khushbisht/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/khushbisht/leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/khushbisht/leetcode-problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
