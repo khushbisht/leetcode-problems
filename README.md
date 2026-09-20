@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/khushbisht/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/khushbisht/leetcode-problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/khushbisht/leetcode-problems/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3498-reverse-degree-of-a-string](https://github.com/khushbisht/leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/khushbisht/leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/khushbisht/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/khushbisht/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/khushbisht/leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
