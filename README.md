@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushbisht/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/khushbisht/leetcode-problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/khushbisht/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/khushbisht/leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/khushbisht/leetcode-problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3467-transform-array-by-parity](https://github.com/khushbisht/leetcode-problems/tree/master/3467-transform-array-by-parity) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khushbisht/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/khushbisht/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/khushbisht/leetcode-problems/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/khushbisht/leetcode-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/khushbisht/leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khushbisht/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/khushbisht/leetcode-problems/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/khushbisht/leetcode-problems/tree/master/0525-contiguous-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/khushbisht/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/khushbisht/leetcode-problems/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/khushbisht/leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/khushbisht/leetcode-problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/khushbisht/leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/khushbisht/leetcode-problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
