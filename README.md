@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/khushbisht/leetcode-problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/khushbisht/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushbisht/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2562-find-the-array-concatenation-value](https://github.com/khushbisht/leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/khushbisht/leetcode-problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/khushbisht/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/khushbisht/leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushbisht/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/khushbisht/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2562-find-the-array-concatenation-value](https://github.com/khushbisht/leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/khushbisht/leetcode-problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/khushbisht/leetcode-problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3477-fruits-into-baskets-ii](https://github.com/khushbisht/leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/khushbisht/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushbisht/leetcode-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/khushbisht/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
+| [2562-find-the-array-concatenation-value](https://github.com/khushbisht/leetcode-problems/tree/master/2562-find-the-array-concatenation-value) |
 ## Number Theory
 |  |
 | ------- |
