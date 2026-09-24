@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/khushbisht/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/khushbisht/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/khushbisht/leetcode-problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushbisht/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/khushbisht/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/khushbisht/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0888-fair-candy-swap](https://github.com/khushbisht/leetcode-problems/tree/master/0888-fair-candy-swap) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/khushbisht/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/khushbisht/leetcode-problems/tree/master/0014-longest-common-prefix) |
+| [0387-first-unique-character-in-a-string](https://github.com/khushbisht/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/khushbisht/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/khushbisht/leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -223,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/khushbisht/leetcode-problems/tree/master/3477-fruits-into-baskets-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/khushbisht/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
