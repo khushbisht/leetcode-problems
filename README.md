@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/khushbisht/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [1310-xor-queries-of-a-subarray](https://github.com/khushbisht/leetcode-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/khushbisht/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khushbisht/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/khushbisht/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/khushbisht/leetcode-problems/tree/master/1720-decode-xored-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khushbisht/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/khushbisht/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khushbisht/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/khushbisht/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/khushbisht/leetcode-problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/khushbisht/leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/khushbisht/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [1310-xor-queries-of-a-subarray](https://github.com/khushbisht/leetcode-problems/tree/master/1310-xor-queries-of-a-subarray) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khushbisht/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/khushbisht/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/khushbisht/leetcode-problems/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/khushbisht/leetcode-problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/khushbisht/leetcode-problems/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/khushbisht/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/khushbisht/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khushbisht/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khushbisht/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/khushbisht/leetcode-problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/khushbisht/leetcode-problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
