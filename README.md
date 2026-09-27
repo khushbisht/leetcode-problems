@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khushbisht/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/khushbisht/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/khushbisht/leetcode-problems/tree/master/1720-decode-xored-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/khushbisht/leetcode-problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/khushbisht/leetcode-problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushbisht/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/khushbisht/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/khushbisht/leetcode-problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khushbisht/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/khushbisht/leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Binary Search
