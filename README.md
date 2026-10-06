@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/khushbisht/leetcode-problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/khushbisht/leetcode-problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/khushbisht/leetcode-problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/khushbisht/leetcode-problems/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Array
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/khushbisht/leetcode-problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khushbisht/leetcode-problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/khushbisht/leetcode-problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/khushbisht/leetcode-problems/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
