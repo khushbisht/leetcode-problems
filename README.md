@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/khushbisht/leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushbisht/leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/khushbisht/leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2396-strictly-palindromic-number](https://github.com/khushbisht/leetcode-problems/tree/master/2396-strictly-palindromic-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/khushbisht/leetcode-problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/khushbisht/leetcode-problems/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/khushbisht/leetcode-problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/khushbisht/leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/khushbisht/leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/khushbisht/leetcode-problems/tree/master/1720-decode-xored-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/khushbisht/leetcode-problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/khushbisht/leetcode-problems/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/khushbisht/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1310-xor-queries-of-a-subarray](https://github.com/khushbisht/leetcode-problems/tree/master/1310-xor-queries-of-a-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/khushbisht/leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/khushbisht/leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/khushbisht/leetcode-problems/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/khushbisht/leetcode-problems/tree/master/3903-smallest-stable-index-i) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/khushbisht/leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/khushbisht/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/khushbisht/leetcode-problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Pigeonhole Principle
 |  |
 | ------- |
