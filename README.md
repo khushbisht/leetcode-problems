@@ -258,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/khushbisht/leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/khushbisht/leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/khushbisht/leetcode-problems/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
